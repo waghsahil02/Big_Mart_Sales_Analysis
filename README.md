@@ -1,4 +1,4 @@
-# Big_Mart_Sales_Analysis
+# Supermarket_Sales_Analysis
 
 
 <ul><li>This project is having big mart sales data.</li>
